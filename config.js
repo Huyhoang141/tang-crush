@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Bae à!',
-    introDesc: `Cuộc đời anh là chữ p_rf_ct
-    vì thêm e là hoàn hảo :>`,
+    introDesc: `Cuộc đời anh là chữ p_rf_ct vì thêm e là hoàn hảo :>`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
